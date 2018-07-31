@@ -1,0 +1,6 @@
+; system_sensor.def : Declares the module parameters for the DLL.
+
+LIBRARY      "system_sensor"
+
+EXPORTS
+    ; Explicit exports can go here

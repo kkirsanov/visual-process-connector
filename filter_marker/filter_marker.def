@@ -1,0 +1,6 @@
+; filter_marker.def : Declares the module parameters for the DLL.
+
+LIBRARY      "filter_marker"
+
+EXPORTS
+    ; Explicit exports can go here

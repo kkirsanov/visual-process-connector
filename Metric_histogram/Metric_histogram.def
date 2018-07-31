@@ -1,0 +1,6 @@
+; Metric_histogram.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Metric_histogram"
+
+EXPORTS
+    ; Explicit exports can go here

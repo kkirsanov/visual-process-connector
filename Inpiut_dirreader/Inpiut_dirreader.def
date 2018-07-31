@@ -1,0 +1,6 @@
+; Inpiut_dirreader.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Inpiut_dirreader"
+
+EXPORTS
+    ; Explicit exports can go here

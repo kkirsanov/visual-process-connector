@@ -1,0 +1,6 @@
+; Control_ProcessConnector.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Control_ProcessConnector"
+
+EXPORTS
+    ; Explicit exports can go here

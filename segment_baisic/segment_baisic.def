@@ -1,0 +1,6 @@
+; segment_baisic.def : Declares the module parameters for the DLL.
+
+LIBRARY      "segment_baisic"
+
+EXPORTS
+    ; Explicit exports can go here

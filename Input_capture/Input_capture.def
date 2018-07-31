@@ -1,0 +1,6 @@
+; Input_capture.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Input_capture"
+
+EXPORTS
+    ; Explicit exports can go here

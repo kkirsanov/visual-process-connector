@@ -1,0 +1,6 @@
+; filter_mask.def : Declares the module parameters for the DLL.
+
+LIBRARY      "filter_mask"
+
+EXPORTS
+    ; Explicit exports can go here

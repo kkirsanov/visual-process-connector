@@ -1,0 +1,6 @@
+; filter_summator.def : Declares the module parameters for the DLL.
+
+LIBRARY      "filter_summator"
+
+EXPORTS
+    ; Explicit exports can go here

@@ -1,0 +1,6 @@
+; filter_panorama.def : Declares the module parameters for the DLL.
+
+LIBRARY      "filter_panorama"
+
+EXPORTS
+    ; Explicit exports can go here

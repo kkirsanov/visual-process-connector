@@ -1,0 +1,6 @@
+; filter_comlex_mi.def : Declares the module parameters for the DLL.
+
+LIBRARY      "filter_comlex_mi"
+
+EXPORTS
+    ; Explicit exports can go here

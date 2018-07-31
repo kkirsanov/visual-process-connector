@@ -1,0 +1,6 @@
+; Input_us.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Input_us"
+
+EXPORTS
+    ; Explicit exports can go here

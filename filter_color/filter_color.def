@@ -1,0 +1,6 @@
+; filter_color.def : Declares the module parameters for the DLL.
+
+LIBRARY      "filter_color"
+
+EXPORTS
+    ; Explicit exports can go here

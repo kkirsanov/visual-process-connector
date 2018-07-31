@@ -1,0 +1,6 @@
+; Logic_sort.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Logic_sort"
+
+EXPORTS
+    ; Explicit exports can go here

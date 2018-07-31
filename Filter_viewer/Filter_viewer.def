@@ -1,0 +1,6 @@
+; Filter_viewer.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Filter_viewer"
+
+EXPORTS
+    ; Explicit exports can go here

@@ -1,0 +1,6 @@
+; metric_wavelet.def : Declares the module parameters for the DLL.
+
+LIBRARY      "metric_wavelet"
+
+EXPORTS
+    ; Explicit exports can go here

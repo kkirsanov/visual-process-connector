@@ -1,0 +1,6 @@
+; Input_image.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Input_image"
+
+EXPORTS
+    ; Explicit exports can go here
